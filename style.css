@@ -94,3 +94,27 @@ ul {
 .content img{
     border-radius: 10%;
 }
+
+.third {
+    background-color: #E5E7EB;
+
+}
+
+.row {
+    display: flex;
+    flex-direction: column;
+    margin-top: 120px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 90px;
+}
+
+i {
+    font-size: 36px;
+    font-weight: 200;
+}
+
+.row p {
+    font-size: 26px;
+    align-self: flex-end;
+}
